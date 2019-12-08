@@ -1,4 +1,3 @@
-// controller
 app.controller('MainController', ['$scope', function($scope) {
     $scope.name = "This is Nigeria";
     $scope.program = {
