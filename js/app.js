@@ -1,2 +1,2 @@
-// angular js
+// angu
 var app = angular.module("BoltNetworkApp", []);
